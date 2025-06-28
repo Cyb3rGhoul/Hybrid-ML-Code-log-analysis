@@ -1,6 +1,6 @@
 # Smart AI Dashboard for Log Analysis
 
-This project was developed during my **Summer 2025 Internship with HPE (Hewlett Packard Enterprise)** as part of a comprehensive log analysis solution. This repository contains the **ML model component** of the Smart AI Dashboard, which uses a hybrid Regex + SVM approach for timestamp extraction and log analysis.
+This project was developed during my **Summer 2025 Internship with HPE (Hewlett Packard Enterprise)** as part of CTY (Catch them young) program. This repository contains the **ML model component** of the Smart AI Dashboard, which uses a hybrid Regex + SVM approach for timestamp extraction and log analysis.
 
 ## Project Overview
 
